@@ -1,1 +1,2 @@
-Titulo: 50 sombras 
+Titulo: 50 sombras
+autor: yo 
